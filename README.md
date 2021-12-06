@@ -1,1 +1,3 @@
-# algoexpert-solutions
+# AlgoExpert Solutions
+
+Both software engineer and data scientist profession require solid foundation of algorithms and data structure knowledge and programming skills. The most efficient way to get this ability is through extensive practice, either working on real projects or solving coding interview questions on [LeetCode](https://leetcode.com/). I chose a slightly different platform [AlgoExpert](https://www.algoexpert.io/) where they select about 160 common coding interview questions. For each of them, they also provide video explanation about the solution. So far, I've solved 20 questions and I will keep going. In the meantime, I will also gradually upload the questions together with my solutions to this repo. 
